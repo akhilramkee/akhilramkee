@@ -6,11 +6,7 @@ I'm currently rockin' it as a Senior Member Tech (SDE2) at D.E.Shaw India, where
 
 While I haven't been the most active in the open-source community, who knows what the future holds? 🤔 I might just dive headfirst into contributing and shaking things up a bit. Maybe I'm fueled by a dash of ADHD 🫵🏼, or perhaps I just appreciate the art of procrastination. 😅
 
-Stay tuned to my profile because I've got a few tricks up my sleeve. Here's what you might catch me working on (in no particular order):
-
-- Neovim plugins 🎨
-- CLI tools ⚙️
-- Parsers & Compilers 🖥️
+Stay tuned to my profile because I've got a few tricks up my sleeve.
 
 (Handcrafted by ChatGPT, sprinkled with a dash of my flair)
 
